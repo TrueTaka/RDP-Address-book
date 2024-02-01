@@ -21,6 +21,8 @@ Note: The application stores connection details in a JSON file named 'base_conne
 Feel free to customize and enhance the application based on your preferences and requirements.
 
 --------------------------------------------------------------------------------------------
+![Screenshot](https://github.com/TrueTaka/RDP-Address-book/blob/main/RDP_BASE.png)
+--------------------------------------------------------------------------------------------
 
 Простой Менеджер RDP Соединений
 
