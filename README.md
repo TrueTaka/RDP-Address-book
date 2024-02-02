@@ -20,6 +20,7 @@ Note: The application stores connection details in a JSON file named 'base_conne
 
 Feel free to customize and enhance the application based on your preferences and requirements.
 
+
 --------------------------------------------------------------------------------------------
 ![Screenshot](https://github.com/TrueTaka/RDP-Address-book/blob/main/RDP_BASE.png)
 --------------------------------------------------------------------------------------------
@@ -46,3 +47,19 @@ Feel free to customize and enhance the application based on your preferences and
 
 Не стесняйтесь настраивать и улучшать приложение в соответствии с вашими предпочтениями и требованиями.
 
+
+
+## Notes
+- Connection details, including names, addresses, and comments, are stored in a JSON file named 'base_connection.json' for persistence.
+
+## Updates
+- **Sorting:** Connections can now be sorted alphabetically by name.
+- **Comments:** Users can leave comments for each connection, providing additional context.
+
+## Обновления
+- **Сортировка:** Теперь соединения можно сортировать в алфавитном порядке по имени.
+- **Комментарии:** Пользователи могут оставлять комментарии к каждому соединению, предоставляя дополнительный контекст.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot](https://github.com/TrueTaka/RDP-Address-book/blob/main/RDP_BASE_1.0.png)
